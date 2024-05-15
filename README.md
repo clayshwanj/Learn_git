@@ -21,5 +21,5 @@
 ![git log](./Screenshots/Screenshot%2014.png) 15. Write the appropriate command to list all the global configurations for git on your machine.
 ![git --global --list](./Screenshots/Screenshot%2015.png) 16. You can type git config --global to find out how to do this.
 ![git --global](./Screenshots/Screenshot%2016.png)
-Change your global settings to core.pager=cat
+17.Change your global settings to core.pager=cat
 ![git --global core.pager 'cat'](./Screenshots/Screenshot%2017.png)
