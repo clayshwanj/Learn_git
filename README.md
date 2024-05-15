@@ -1,7 +1,7 @@
 # Git Commands
 
 1. Create a folder called learn_git.
-2. ![](Screenshots/filename%20Screenshot 1.png)
+2. <img src='Screenshots/filename%20Screenshot 1.png>
 3. Cd (change directory) into the learn_git folder.
 4. Create a file called third.txt.
 5. Initialize an empty git repository.
